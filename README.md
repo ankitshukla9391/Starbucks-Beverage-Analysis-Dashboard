@@ -53,6 +53,5 @@ The Power BI report includes the following visuals:
 ## Notes
 This README describes the visuals and fields identified in the Power BI report. Specific numerical findings are not listed because the underlying data values were not independently extracted and verified here.
 
-## Author
-**Your Name**  
-Aspiring Data Analyst | Excel | SQL | Power BI | Python
+## Snapshot of Dashboard
+![Dashboard Snapshot](starbucks_dashboad_snapshot.png)
